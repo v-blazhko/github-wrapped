@@ -1,9 +1,15 @@
 # github-wrapped
 Make your own team's year in coding wrapped!
 
-![](/img/1.png)
+![](/img/github-wrapped-1.png)
 
-![](/img/2.png)
+---
+
+![](/img/github-wrapped-2.png)
+
+----
+
+![](/img/github-wrapped-3.png)
 
 ## Tools used
 
